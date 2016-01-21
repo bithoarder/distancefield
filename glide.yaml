@@ -1,0 +1,5 @@
+package: git.bitheap.net/github/mk_distancefield
+import:
+- package: github.com/nfnt/resize
+  version: dc93e1b98c579d90ee2fa15c1fd6dac34f6e7899
+- package: gopkg.in/alecthomas/kingpin.v2

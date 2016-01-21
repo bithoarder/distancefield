@@ -1,0 +1,10 @@
+.idea/workspace.xml
+glide.lock
+
+vendor/
+
+_*/
+.*/
+!.idea/
+
+*~
