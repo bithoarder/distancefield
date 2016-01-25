@@ -18,7 +18,9 @@
       <root url="file://$PROJECT_DIR$/../../../github.com/alecthomas/template/testdata" />
       <root url="file://$PROJECT_DIR$/../../../github.com/alecthomas/template/.git" />
       <root url="file://$PROJECT_DIR$/../../../github.com/Masterminds/semver/.git" />
+      <root url="file://$PROJECT_DIR$/../../jesper/goscrapheap/.git" />
       <root url="file://$PROJECT_DIR$/../../../github.com/Masterminds/vcs/.git" />
+      <root url="file://$PROJECT_DIR$/../../jesper/goscrapheap/.idea" />
       <root url="file://$PROJECT_DIR$/vendor/github.com/alecthomas/template/testdata" />
       <root url="file://$PROJECT_DIR$/../../../github.com/nfnt/resize/.git" />
       <root url="file://$PROJECT_DIR$/.idea" />
